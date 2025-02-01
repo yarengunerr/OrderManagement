@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\store.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\store.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\guner\\onedrive\\masa\u00FCst\u00FC\\yazlab3\\siparisyonetim2\\siparisyonetim\\siparisyonetim\\pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\orderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\orderstatus.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\orderstatus.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:hubs\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-30T09:24:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\OrderStatus.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderStatus.cshtml",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\OrderStatus.cshtml",
+              "RelativeToolTip": "Pages\\OrderStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:23:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:10:11.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "Pages\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:10:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Store.cshtml.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml.cs",
+              "RelativeToolTip": "Pages\\Store.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADgvx4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:06:53.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cshtml",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Store.cshtml",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml",
+              "RelativeToolTip": "Pages\\Store.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAIsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:06:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPanel.cshtml.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml.cs",
+              "RelativeToolTip": "Pages\\AdminPanel.cshtml.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAUwMEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:05:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml",
+              "RelativeToolTip": "Pages\\AdminPanel.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAJIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:05:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\OrderStatus.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderStatus.cshtml.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Pages\\OrderStatus.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderStatus.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:25:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductHub.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Hubs\\ProductHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ProductHub.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\Yazlab3\\SiparisYonetim2\\SiparisYonetim\\SiparisYonetim\\Hubs\\ProductHub.cs",
+              "RelativeToolTip": "Hubs\\ProductHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:11:24.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

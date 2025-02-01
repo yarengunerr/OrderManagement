@@ -1,0 +1,45 @@
+﻿@page
+@model SiparisYonetim.Pages.AdminPanelModel
+@{
+    ViewData["Title"] = "Sipariş Durumları";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Sipariş Durumları</h1>
+
+    <ul class="order-status-list">
+        @foreach (var order in Model.Orders)
+        {
+            <li class="order-item">
+                <div class="order-header">
+                    <strong>Müşteri @order.CustomerID</strong>:
+                </div>
+                <div class="order-details">
+                    @if (order.Product != null)
+                    {
+                        @order.Quantity
+                        
+                       <strong>@order.Product.ProductName</strong>
+                    }
+                    sipariş verdi.
+                </div>
+                <div class="order-status">
+                    <span class="status-text">@order.OrderStatus</span>
+                </div>
+            </li>
+        }
+
+    </ul>
+</div>
+
+@section Scripts {
+    <script>
+        
+
+        document.querySelectorAll(".order-item").forEach((item, index) => {
+            setTimeout(() => {
+                item.classList.add("fade-in");
+            }, index * 500); 
+        });
+    </script>
+}

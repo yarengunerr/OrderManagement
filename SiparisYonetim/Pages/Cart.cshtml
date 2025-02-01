@@ -1,0 +1,50 @@
+﻿@page
+@model SiparisYonetim.Pages.CartModel
+@{
+    ViewData["Title"] = "Sepetim";
+}
+
+<h1>Sepetim</h1>
+
+@if (Model.CartItems.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ürün</th>
+                <th>Adet</th>
+                <th>Fiyat</th>
+                <th>Toplam</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price TL</td>
+                    <td>@(item.Price * item.Quantity) TL</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    
+    <form method="post" asp-page-handler="ConfirmOrder">
+        <button type="submit" class="btn btn-success">Siparişi Onayla</button>
+    </form>
+}
+else
+{
+    <p>Sepetiniz boş!</p>
+}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.10/signalr.min.js"></script>
+<script>
+    
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/productHub")
+        .build();
+
+    connection.start().catch(err => console.error(err.toString()));
+</script>

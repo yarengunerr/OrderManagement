@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\store.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\store.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\customerpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\customerpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\customerpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\customerpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|c:\\users\\hamdi\\desktop\\siparisyonetim\\siparisyonetim\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A729EF3-929F-48DB-AF28-76D3EEC5B8A6}|SiparisYonetim.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CartItem.cs",
+              "RelativeDocumentMoniker": "Pages\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CartItem.cs",
+              "RelativeToolTip": "Pages\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:08:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Product.cs",
+              "RelativeDocumentMoniker": "Pages\\Product.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Product.cs",
+              "RelativeToolTip": "Pages\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:39:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:54:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerPanel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CustomerPanel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CustomerPanel.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CustomerPanel.cshtml.cs",
+              "RelativeToolTip": "Pages\\CustomerPanel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:08:56.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Store.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Store.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml.cs",
+              "RelativeToolTip": "Pages\\Store.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:35:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Store.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Store.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Store.cshtml",
+              "RelativeToolTip": "Pages\\Store.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwF4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:35:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CustomerPanel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CustomerPanel.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\CustomerPanel.cshtml",
+              "RelativeToolTip": "Pages\\CustomerPanel.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:07:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Customer.cs",
+              "RelativeDocumentMoniker": "Pages\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Customer.cs",
+              "RelativeToolTip": "Pages\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:07:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:47:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "Pages\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T10:47:00.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Pages\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AppDbContext.cs",
+              "RelativeToolTip": "Pages\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:40:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:14:32.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminPanel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminPanel.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml.cs",
+              "RelativeToolTip": "Pages\\AdminPanel.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:56:02.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:41:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:43:45.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:43:54.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T09:35:45.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Users\\Hamdi\\Desktop\\SiparisYonetim\\SiparisYonetim\\Pages\\AdminPanel.cshtml",
+              "RelativeToolTip": "Pages\\AdminPanel.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T18:55:48.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

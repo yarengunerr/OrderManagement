@@ -1,0 +1,34 @@
+﻿@page
+@model SiparisYonetim.Pages.CustomerOrdersModel
+@{
+    ViewData["Title"] = "Siparişlerim";
+}
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+
+
+<h1>Siparişlerim</h1>
+
+@if (Model.Orders.Any())
+{
+    @foreach (var order in Model.Orders)
+    {
+        <div class="order-card">
+            <div class="order-header">
+                <h4>Sipariş No: @order.OrderID</h4>
+                <span class="order-status @(order.OrderStatus.ToLower())">
+                    @order.OrderStatus.ToUpper()
+                </span>
+            </div>
+            <div class="product-list">
+                <strong>Ürün:</strong> @order.Product.ProductName <br />
+                <strong>Adet:</strong> @order.Quantity <br />
+                <strong>Toplam Fiyat:</strong> @order.TotalPrice TL
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>Henüz bir siparişiniz bulunmamaktadır.</p>
+}

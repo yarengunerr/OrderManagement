@@ -1,0 +1,585 @@
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\source\repos\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\source\repos\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\Hamdi\Desktop\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\guner\OneDrive\Masaüstü\farklı sekmelerde aş zamanlı2\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\guner\OneDrive\Masaüstü\sipariş bekliyor thread\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\appsettings.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.staticwebassets.runtime.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.exe
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.deps.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.runtimeconfig.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.AssemblyReference.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfoInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.AssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.csproj.CoreCompileInputs.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.RazorAssemblyInfo.cs
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.SiparisYonetim.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.build.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SiparisYonetim.props
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\bundle\SiparisYonetim.styles.css
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\scopedcss\projectbundle\SiparisYonetim.bundle.scp.css
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisY.4076A3D1.Up2Date
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\refint\SiparisYonetim.dll
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.pdb
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\SiparisYonetim.genruntimeconfig.cache
+C:\Users\guner\OneDrive\Masaüstü\Yazlab3\SiparisYonetim2\SiparisYonetim\SiparisYonetim\obj\Debug\net8.0\ref\SiparisYonetim.dll
